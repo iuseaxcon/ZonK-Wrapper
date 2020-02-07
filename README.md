@@ -4,9 +4,9 @@ This is a Wrapper, Wrapping was created by Autunm in 2016. Wrapping is where it 
 
 Credits
 ----------------------
-NanoCentral - For making ZonK Wrapper
-JaheedFX - Inspiration
-Autunm - Wrapping
-Whoever made Scanning
-Chirality - Retcheck
-You - For using and skidding my wrapper
+NanoCentral - For making ZonK Wrapper, 
+JaheedFX - Inspiration, 
+Autunm - Wrapping, 
+Whoever made Scanning, 
+Chirality - Retcheck, 
+You - For using and skidding my wrapper, 
